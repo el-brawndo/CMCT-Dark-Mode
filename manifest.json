@@ -1,0 +1,13 @@
+{
+    "background": {
+        "scripts": ["main.js"]
+    },
+    "description": "Close tabs using a context menu option.",
+    "icons": {
+        "128": "close128.png"
+    },
+    "manifest_version": 2,
+    "name": "Close Tab in Context Menu Dark Mode",
+    "permissions": ["contextMenus"],
+    "version": "1.0"
+}
